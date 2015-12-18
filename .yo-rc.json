@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "WordPress.com で HTML5 アプリを作ってみた",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "maakura",
+    "githubRepository": "wordpresscom-html5-app-slide"
+  }
+}
