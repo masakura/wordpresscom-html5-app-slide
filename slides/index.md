@@ -1,10 +1,7 @@
-
 # WordPress.com で HTML5 アプリを作ってみた
 
-From the terminal, pop in:
+政倉 智
 
-  ```yo reveal:slide "Slide Title"```
+2015/12/19
 
-Available options:
-
- ```--markdown --attributes --notes```
+第11回WordBench宮崎
